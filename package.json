@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-android-notification-listener": "^5.0.1"
+  }
+}
